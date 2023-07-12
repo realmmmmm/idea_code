@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jvs-starter-oss" />
+        <module name="jvs-starter-feign" />
+        <module name="jvs-starter-dynamic" />
+        <module name="jvs-gateway" />
+        <module name="jvs-starter-sentinel" />
+        <module name="jvs-starter-log" />
+        <module name="jvs-starter-dingding" />
+        <module name="jvs-auth" />
+        <module name="jvs-auth-api" />
+        <module name="jvs-auth-mgr" />
+        <module name="jvs-starter-web" />
+        <module name="jvs-starter-seata" />
+        <module name="jvs-auth-common" />
+        <module name="jvs-starter-sms" />
+        <module name="jvs-starter-redis" />
+        <module name="message-push-mgr" />
+        <module name="jvs-gateway-common" />
+        <module name="message-push-api" />
+        <module name="jvs-starter-mongodb" />
+        <module name="jvs-starter-knife4j" />
+        <module name="jvs-starter-oauth2" />
+        <module name="message-push-common" />
+        <module name="jvs-starter-job" />
+        <module name="jvs-starter-common" />
+        <module name="jvs-starter-rabbit" />
+        <module name="jvs-starter-gray" />
+        <module name="jvs-starter-email" />
+        <module name="message-push-dto" />
+        <module name="jvs-starter-database" />
+        <module name="jvs-starter-prometheus" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jvs" target="1.8" />
+      <module name="jvs-auth" target="1.8" />
+      <module name="jvs-auth-api" target="1.8" />
+      <module name="jvs-auth-common" target="1.8" />
+      <module name="jvs-auth-mgr" target="1.8" />
+      <module name="jvs-common-pom" target="1.5" />
+      <module name="jvs-core-parent" target="1.8" />
+      <module name="jvs-gateway" target="1.8" />
+      <module name="jvs-gateway-common" target="1.8" />
+      <module name="jvs-message-push" target="1.8" />
+      <module name="jvs-starter-common" target="1.8" />
+      <module name="jvs-starter-database" target="1.8" />
+      <module name="jvs-starter-dingding" target="1.8" />
+      <module name="jvs-starter-dynamic" target="1.8" />
+      <module name="jvs-starter-email" target="1.8" />
+      <module name="jvs-starter-feign" target="1.8" />
+      <module name="jvs-starter-gray" target="1.8" />
+      <module name="jvs-starter-job" target="1.8" />
+      <module name="jvs-starter-knife4j" target="1.8" />
+      <module name="jvs-starter-log" target="1.8" />
+      <module name="jvs-starter-mongodb" target="1.8" />
+      <module name="jvs-starter-oauth2" target="1.8" />
+      <module name="jvs-starter-oss" target="1.8" />
+      <module name="jvs-starter-prometheus" target="1.8" />
+      <module name="jvs-starter-rabbit" target="1.8" />
+      <module name="jvs-starter-redis" target="1.8" />
+      <module name="jvs-starter-seata" target="1.8" />
+      <module name="jvs-starter-sentinel" target="1.8" />
+      <module name="jvs-starter-sms" target="1.8" />
+      <module name="jvs-starter-web" target="1.8" />
+      <module name="message-push-api" target="1.8" />
+      <module name="message-push-common" target="1.8" />
+      <module name="message-push-dto" target="1.8" />
+      <module name="message-push-mgr" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jvs-auth" options="-parameters" />
+      <module name="jvs-auth-api" options="-parameters" />
+      <module name="jvs-auth-common" options="-parameters" />
+      <module name="jvs-auth-mgr" options="-parameters" />
+      <module name="jvs-gateway" options="-parameters" />
+      <module name="jvs-gateway-common" options="-parameters" />
+      <module name="jvs-starter-common" options="-parameters" />
+      <module name="jvs-starter-database" options="-parameters" />
+      <module name="jvs-starter-dingding" options="-parameters" />
+      <module name="jvs-starter-dynamic" options="-parameters" />
+      <module name="jvs-starter-email" options="-parameters" />
+      <module name="jvs-starter-feign" options="-parameters" />
+      <module name="jvs-starter-gray" options="-parameters" />
+      <module name="jvs-starter-job" options="-parameters" />
+      <module name="jvs-starter-knife4j" options="-parameters" />
+      <module name="jvs-starter-log" options="-parameters" />
+      <module name="jvs-starter-mongodb" options="-parameters" />
+      <module name="jvs-starter-oauth2" options="-parameters" />
+      <module name="jvs-starter-oss" options="-parameters" />
+      <module name="jvs-starter-prometheus" options="-parameters" />
+      <module name="jvs-starter-rabbit" options="-parameters" />
+      <module name="jvs-starter-redis" options="-parameters" />
+      <module name="jvs-starter-seata" options="-parameters" />
+      <module name="jvs-starter-sentinel" options="-parameters" />
+      <module name="jvs-starter-sms" options="-parameters" />
+      <module name="jvs-starter-web" options="-parameters" />
+      <module name="message-push-api" options="-parameters" />
+      <module name="message-push-common" options="-parameters" />
+      <module name="message-push-dto" options="-parameters" />
+      <module name="message-push-mgr" options="-parameters" />
+    </option>
+  </component>
+</project>

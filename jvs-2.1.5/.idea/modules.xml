@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs.iml" filepath="$PROJECT_DIR$/jvs/jvs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jvs-2.1.5.iml" filepath="$PROJECT_DIR$/.idea/jvs-2.1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-auth/jvs-auth.iml" filepath="$PROJECT_DIR$/jvs/jvs-auth/jvs-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-auth-api/jvs-auth-api.iml" filepath="$PROJECT_DIR$/jvs/jvs-auth-api/jvs-auth-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-auth-common/jvs-auth-common.iml" filepath="$PROJECT_DIR$/jvs/jvs-auth-common/jvs-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-auth-mgr/jvs-auth-mgr.iml" filepath="$PROJECT_DIR$/jvs/jvs-auth-mgr/jvs-auth-mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-common-pom/jvs-common-pom.iml" filepath="$PROJECT_DIR$/jvs/jvs-common-pom/jvs-common-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-core-parent.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-core-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-gateway/jvs-gateway.iml" filepath="$PROJECT_DIR$/jvs/jvs-gateway/jvs-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-gateway-common/jvs-gateway-common.iml" filepath="$PROJECT_DIR$/jvs/jvs-gateway-common/jvs-gateway-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-message-push/jvs-message-push.iml" filepath="$PROJECT_DIR$/jvs/jvs-message-push/jvs-message-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-common/jvs-starter-common.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-common/jvs-starter-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-database/jvs-starter-database.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-database/jvs-starter-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-dingding/jvs-starter-dingding.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-dingding/jvs-starter-dingding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-dynamic/jvs-starter-dynamic.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-dynamic/jvs-starter-dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-email/jvs-starter-email.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-email/jvs-starter-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-feign/jvs-starter-feign.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-feign/jvs-starter-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-gray/jvs-starter-gray.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-gray/jvs-starter-gray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-job/jvs-starter-job.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-job/jvs-starter-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-knife4j/jvs-starter-knife4j.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-knife4j/jvs-starter-knife4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-log/jvs-starter-log.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-log/jvs-starter-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-mongodb/jvs-starter-mongodb.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-mongodb/jvs-starter-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-oauth2/jvs-starter-oauth2.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-oauth2/jvs-starter-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-oss/jvs-starter-oss.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-oss/jvs-starter-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-prometheus/jvs-starter-prometheus.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-prometheus/jvs-starter-prometheus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-rabbit/jvs-starter-rabbit.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-rabbit/jvs-starter-rabbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-redis/jvs-starter-redis.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-redis/jvs-starter-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-seata/jvs-starter-seata.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-seata/jvs-starter-seata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-sentinel/jvs-starter-sentinel.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-sentinel/jvs-starter-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-sms/jvs-starter-sms.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-sms/jvs-starter-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-web/jvs-starter-web.iml" filepath="$PROJECT_DIR$/jvs/jvs-core-parent/jvs-starter-web/jvs-starter-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-message-push/message-push-api/message-push-api.iml" filepath="$PROJECT_DIR$/jvs/jvs-message-push/message-push-api/message-push-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-message-push/message-push-common/message-push-common.iml" filepath="$PROJECT_DIR$/jvs/jvs-message-push/message-push-common/message-push-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-message-push/message-push-dto/message-push-dto.iml" filepath="$PROJECT_DIR$/jvs/jvs-message-push/message-push-dto/message-push-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvs/jvs-message-push/message-push-mgr/message-push-mgr.iml" filepath="$PROJECT_DIR$/jvs/jvs-message-push/message-push-mgr/message-push-mgr.iml" />
+    </modules>
+  </component>
+</project>
